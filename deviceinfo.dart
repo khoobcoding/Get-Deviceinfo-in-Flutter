@@ -1,5 +1,8 @@
-import 'dart:io';
+dependencies:
+  cupertino_icons: ^1.0.2
+  device_info_plus: ^9.0.2  // add this package in your pubspec.yaml file
 
+import 'dart:io';
 import 'package:device_info_plus/device_info_plus.dart';
 import 'package:example/Device_Screens.dart';
 import 'package:flutter/foundation.dart';
